@@ -14,8 +14,11 @@ def while_insertion_sort(arr: list)-> list:
                 break
     return arr
 
-arr = [ 5, 6, 18, 4, 9, -5, 3, 11]     
+arr = [ 12, 34, 54, 2, 3, -1, 0, -16]     
 print(while_insertion_sort(arr))
+
+# result
+# [-16, -1, 0, 2, 3, 12, 34, 54]
 
 
 """
@@ -29,5 +32,8 @@ def for_insertion_sort(arr: list)-> list:
                 arr[j], arr[j-1] = arr[j-1], arr[j]
     return arr
 
-arr = [ 5, 6, 18, 4, 9, -5, 3, 11]
-print(for_insertion_sort(arr))     
+arr = [ 12, 34, 54, 2, 3, -1, 0, -16] 
+print(for_insertion_sort(arr))
+
+# result
+# [-16, -1, 0, 2, 3, 12, 34, 54]

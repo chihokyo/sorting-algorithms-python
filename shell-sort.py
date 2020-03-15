@@ -16,5 +16,8 @@ def shell_sort(arr):
         gap //= 2   
     return arr  
 
-arr = [66, 4, 8, 90, 13, 6, -9]  
-print(shell_sort(arr))  
+arr = [ 12, 34, 54, 2, 3, -1, 0, -16] 
+print(shell_sort(arr))
+
+# result
+# [-16, -1, 0, 2, 3, 12, 34, 54]

@@ -10,11 +10,11 @@ def bubble_sort(arr: list) -> list:
                 arr[j], arr[j+1] = arr[j+1], arr[j]
     return arr
 
-arr = [1,3,-9,8,6] 
+arr = [ 12, 34, 54, 2, 3, -1, 0, -16]  
 print(bubble_sort(arr))
 
 # result
-# [-9, 1, 3, 6, 8]
+# [-16, -1, 0, 2, 3, 12, 34, 54]
 
 
 """
@@ -34,8 +34,8 @@ def opti_bubble_sort(arr: list) -> list:
             break
     return arr
 
-arr = [1,3,-9,8,6] 
+arr = [ 12, 34, 54, 2, 3, -1, 0, -16]  
 print(opti_bubble_sort(arr))
 
 # result
-# [-9, 1, 3, 6, 8]
+# [-16, -1, 0, 2, 3, 12, 34, 54]

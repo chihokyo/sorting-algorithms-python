@@ -11,9 +11,11 @@ def selection_sort(arr: list)-> list:
         arr[i], arr[smallest_index] = arr[smallest_index], arr[i]
     return arr
 
-arr = [1,3,-9,8,6,17,-6] 
-selection_sort(arr)
-print(arr)
+arr = [ 12, 34, 54, 2, 3, -1, 0, -16] 
+print(selection_sort(arr))
+
+# result
+# [-16, -1, 0, 2, 3, 12, 34, 54]
 
 """
 好理解的做法
@@ -41,6 +43,8 @@ def selection_sort_of_index(arr: list)-> list:
         sorted_list.append(arr.pop(smallest_index))
     return sorted_list
         
-arr = [1,3,-9,8,6,17,-6] 
-
+arr = [ 12, 34, 54, 2, 3, -1, 0, -16] 
 print(selection_sort_of_index(arr))
+
+# result
+# [-16, -1, 0, 2, 3, 12, 34, 54]
