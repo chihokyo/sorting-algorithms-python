@@ -1,8 +1,11 @@
 # sorting-algorithm-python
 
-> 上面所有排序算法的思路和详解都在发布在了个人博客 [**个人博客：https://chihokyo.com/**](https://chihokyo.com/)
+> 上面所有排序算法的思路和详解都在发布在了个人博客 
 >
 > The ideas and detailed explanations of all the sorting algorithms above are posted on personal blogs
+>
+>[**个人博客：https://chihokyo.com/**](https://chihokyo.com/)
+
 
 
 
