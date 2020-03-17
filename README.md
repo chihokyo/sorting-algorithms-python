@@ -4,7 +4,7 @@
 >
 > The ideas and detailed explanations of all the sorting algorithms above are posted on personal blogs
 >
->[**个人博客：https://chihokyo.com/**](https://chihokyo.com/)
+>[<span style="color:#0097a7">**个人博客：https://chihokyo.com/**</span>](https://chihokyo.com/)
 
 
 
@@ -32,5 +32,6 @@
 [桶思想 基数排序: Radix Sort](https://chihokyo.com/post/20/)
 
 [桶思想 桶排序: Bucket Sort](https://chihokyo.com/post/20/)
+
 
 
