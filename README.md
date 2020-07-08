@@ -4,7 +4,8 @@
 >
 > The ideas and detailed explanations of all the sorting algorithms above are posted on personal blogs
 >
->[**<span style="color:#0097a7">个人博客：https://chihokyo.com/</span>**](https://chihokyo.com/)
+
+[**<span style="color:#0097a7">个人博客：https://chihokyo.com/</span>**](https://chihokyo.com/)
 
 
 
