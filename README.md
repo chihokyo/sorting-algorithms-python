@@ -1,6 +1,6 @@
 # sorting-algorithm-python
 
-所有排序算法的思路和详解都在发布在了个人博客 ❤️ [https://chihokyo.com/](https://chihokyo.com/)
+所有用 Python 实现的排序算法思路和详解都在发布在了个人博客 ❤️ [https://chihokyo.com/](https://chihokyo.com/)
 >
 > The ideas and detailed explanations of all the sorting algorithms above are posted on personal blogs
 
